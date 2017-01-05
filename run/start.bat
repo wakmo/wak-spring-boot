@@ -1,0 +1,1 @@
+java -jar wak-spring-boot-1.0-SNAPSHOT.jar
